@@ -9,47 +9,47 @@ A aplicação foi construída como parte da atividade prática extra do curso de
 
 O principal objetivo deste projeto é criar uma página web funcional e organizada que permita:
 
-Apresentar informações pessoais e profissionais
+- Apresentar informações pessoais e profissionais
 
-Exibir habilidades técnicas
+- Exibir habilidades técnicas
 
-Listar projetos desenvolvidos
+- Listar projetos desenvolvidos
 
-Disponibilizar formas de contato
+- Disponibilizar formas de contato
 
 ## 🛠️ Tecnologias Utilizadas
 
-HTML5 → estrutura da aplicação
+- HTML5 → estrutura da aplicação
 
-CSS3 → estilização e responsividade
+- CSS3 → estilização e responsividade
 
-JavaScript → interações e funcionalidades dinâmicas
+- JavaScript → interações e funcionalidades dinâmicas
 
 ## ⚙️ Funcionalidades
 
-Menu responsivo com botão hamburguer
+- Menu responsivo com botão hamburguer
 
-Seção “Sobre Mim” com descrição profissional
+- Seção “Sobre Mim” com descrição profissional
 
-Listagem de projetos com descrição e links para o GitHub
+- Listagem de projetos com descrição e links para o GitHub
 
-Seção de habilidades técnicas organizadas por categoria
+- Seção de habilidades técnicas organizadas por categoria
 
-Área de contato com:
+- Área de contato com:
 
-Abertura de e-mail com mensagem pré-preenchida
+- Abertura de e-mail com mensagem pré-preenchida
 
-Redirecionamento para WhatsApp com mensagem automática
+- Redirecionamento para WhatsApp com mensagem automática
 
-Links para redes sociais
+- Links para redes sociais
 
 ## ▶️ Como Executar o Projeto
 
-Faça o download do arquivo compactado (.zip)
+- Faça o download do arquivo compactado (.zip)
 
-Extraia os arquivos em uma pasta
+- Extraia os arquivos em uma pasta
 
-Abra o arquivo index.html em qualquer navegador web
+- Abra o arquivo index.html em qualquer navegador web
 
 Não é necessário instalar dependências ou utilizar servidor local.
 
@@ -67,11 +67,11 @@ assets/ → imagens utilizadas no projeto
 
 Este projeto foi desenvolvido como atividade prática extra do curso de Introdução à Programação Front-End e Back-End, com o objetivo de aplicar na prática os conceitos estudados durante o curso, incluindo:
 
-Estruturação de páginas com HTML
+- Estruturação de páginas com HTML
 
-Estilização com CSS
+- Estilização com CSS
 
-Manipulação de eventos com JavaScript
+- Manipulação de eventos com JavaScript
 
 ## 👨‍💻 Autor
 
