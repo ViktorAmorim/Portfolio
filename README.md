@@ -1,5 +1,5 @@
-Portfólio Pessoal - João Victor Amorim
-📌 Descrição do Projeto
+# Portfólio Pessoal - João Victor Amorim
+##📌 Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma landing page de portfólio pessoal, com o objetivo de apresentar informações profissionais, habilidades técnicas e projetos desenvolvidos ao longo da formação em Desenvolvimento Full Stack.
 
