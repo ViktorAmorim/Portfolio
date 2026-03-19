@@ -1,11 +1,11 @@
 # Portfólio Pessoal - João Victor Amorim
-##📌 Descrição do Projeto
+## 📌 Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma landing page de portfólio pessoal, com o objetivo de apresentar informações profissionais, habilidades técnicas e projetos desenvolvidos ao longo da formação em Desenvolvimento Full Stack.
 
 A aplicação foi construída como parte da atividade prática extra do curso de Introdução à Programação Front-End e Back-End, visando consolidar conhecimentos adquiridos e servir como base para futuras evoluções profissionais.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 O principal objetivo deste projeto é criar uma página web funcional e organizada que permita:
 
@@ -17,7 +17,7 @@ Listar projetos desenvolvidos
 
 Disponibilizar formas de contato
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5 → estrutura da aplicação
 
@@ -25,7 +25,7 @@ CSS3 → estilização e responsividade
 
 JavaScript → interações e funcionalidades dinâmicas
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 Menu responsivo com botão hamburguer
 
@@ -43,7 +43,7 @@ Redirecionamento para WhatsApp com mensagem automática
 
 Links para redes sociais
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
 Faça o download do arquivo compactado (.zip)
 
