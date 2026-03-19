@@ -198,6 +198,10 @@ li {
   border: 1px solid transparent;
   transition: all 0.25s ease;
 }
+.projeto-card .techs {
+  margin-top: 15px;
+  color: #9ca3af;
+}
 
 .projeto-card:hover {
   transform: translateY(-5px);
