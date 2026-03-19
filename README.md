@@ -53,7 +53,7 @@ Abra o arquivo index.html em qualquer navegador web
 
 Não é necessário instalar dependências ou utilizar servidor local.
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 index.html → estrutura principal da página
 
@@ -63,7 +63,7 @@ script.js → funcionalidades com JavaScript
 
 assets/ → imagens utilizadas no projeto
 
-📚 Contexto Acadêmico
+## 📚 Contexto Acadêmico
 
 Este projeto foi desenvolvido como atividade prática extra do curso de Introdução à Programação Front-End e Back-End, com o objetivo de aplicar na prática os conceitos estudados durante o curso, incluindo:
 
@@ -73,7 +73,7 @@ Estilização com CSS
 
 Manipulação de eventos com JavaScript
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 João Victor Amorim
 Estudante de Desenvolvimento Full Stack
